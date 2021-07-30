@@ -42,3 +42,5 @@ ___Пример выделения текста___
   
   
 ![Альтернативный текст](https://img5.goodfon.ru/wallpaper/nbig/3/73/abstraktsiia-antisfera-vodovorot-krasok-kartinka-chernyi-fon.jpg "Подсказка")
+  
+ <http://example.com/>

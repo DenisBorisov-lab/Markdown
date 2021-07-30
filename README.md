@@ -27,3 +27,5 @@
 <String number = new String();>
 ---
   Хай
+  
+ > [пример ссылки](https://github.com/ "необязательная подсказка")

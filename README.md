@@ -41,4 +41,4 @@
 ___Пример выделения текста___
   
   
-![Альтернативный текст](D:\картинки\1589296650134584192.jpg "Подсказка")
+![Альтернативный текст](https://img5.goodfon.ru/wallpaper/nbig/3/73/abstraktsiia-antisfera-vodovorot-krasok-kartinka-chernyi-fon.jpg "Подсказка")

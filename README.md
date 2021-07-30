@@ -22,5 +22,5 @@
 * Второй элемент
 * Третий элемент
 
-<Блок кода
-String number = new String();>
+<Блок кода>
+<String number = new String();>
